@@ -2,3 +2,5 @@
 How text classification work in RNN and LSTM with Keras and Tensorflow
 
 You can running this code easily in kaggle, you can cek my profile in this [Link](https://www.kaggle.com/code/thinkstudio21/text-classification-with-rnn-lstm/notebook).
+
+You can follow me in my blog with this [Link](https://thinkstudioo.blogspot.com/).
